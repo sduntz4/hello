@@ -1,9 +1,9 @@
 /**
  * Author: Spencer Duntz
- * Date: 2019/08/28
+ * Date: 08/28/2019
  *
- * A simple hello world program in C
  *
+ * Print my name and partners name
  */
 #include<stdlib.h>
 #include<stdio.h>
